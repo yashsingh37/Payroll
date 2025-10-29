@@ -1,0 +1,87 @@
+﻿@model IEnumerable<PayRoll_Practies_Exam_2.Models.EmployeModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/views/shared/_logoutlayout.cshtml";
+}
+
+<link href="~/Everything/allcss/allallall.css" rel="stylesheet" />
+
+
+
+<center>
+    <h2>INDEX</h2>
+</center>
+
+
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.c_empid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.c_empname)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.c_categoryname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.c_gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.c_hiredate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.c_salary)
+            </th>
+
+            <th>
+                <p>
+                    <center> @Html.ActionLink("Create New", "Add", "", new { @class = "btn btn-info " })</center>   
+                </p>
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.c_empid)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.c_empname)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.c_categoryname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.c_gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.c_hiredate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.c_salary)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.c_empid }, new { @class = "btn btn-success" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.c_empid }, new { @class = "btn btn-danger" }) |
+                    @Html.ActionLink("Show PayRoll", "Payroll", new { id = item.c_empid }, new { @class = "btn btn-success" })
+                </td>
+            </tr>
+
+        }
+
+
+
+    </table>
+
+
+
+

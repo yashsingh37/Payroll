@@ -1,0 +1,488 @@
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\csc.exe
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\vbc.exe
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll.config
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.pdb
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Owin.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\WebGrease.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.pdb
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.pdb
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csprojResolveAssemblyReference.cache
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.dll
+c:\users\intern008\documents\visual studio 2015\Projects\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.pdb
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\csc.exe
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\vbc.exe
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll.config
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.pdb
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Owin.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\WebGrease.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.pdb
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.pdb
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csprojResolveAssemblyReference.cache
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.dll
+C:\Users\kailas.patil\Downloads\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.pdb
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\csc.exe
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\vbc.exe
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll.config
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.pdb
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Owin.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\WebGrease.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.pdb
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.pdb
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.dll
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.pdb
+C:\Users\intern009\Downloads\PayRoll_MVC_With_Kendo_Grid (1)\PayRoll_MVC_With_Kendo_Grid\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csprojResolveAssemblyReference.cache
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\csc.exe
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Collections.Immutable.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\vbc.exe
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe.config
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll.config
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.pdb
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Web.Infrastructure.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Owin.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\WebGrease.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.pdb
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.pdb
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csproj.AssemblyReference.cache
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csproj.CoreCompileInputs.cache
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csproj.CopyComplete
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.dll
+C:\internship-2\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.pdb
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\csc.exe
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\vbc.exe
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll.config
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.pdb
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Owin.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\WebGrease.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.pdb
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.pdb
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csproj.AssemblyReference.cache
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csproj.CoreCompileInputs.cache
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csproj.CopyComplete
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.dll
+C:\Users\singh\Downloads\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.pdb
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\csc.exe
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Collections.Immutable.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\vbc.exe
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\roslyn\VBCSCompiler.exe.config
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll.config
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\PayRoll_Practies_Exam_2.pdb
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Google.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Web.Infrastructure.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Owin.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\WebGrease.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Npgsql.pdb
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Buffers.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Memory.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Threading.Tasks.Extensions.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.ValueTuple.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Helpers.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Mvc.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Optimization.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.Razor.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Deployment.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\System.Web.WebPages.Razor.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Antlr3.Runtime.pdb
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Newtonsoft.Json.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\EntityFramework.SqlServer.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\bin\Microsoft.Owin.xml
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csproj.AssemblyReference.cache
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.csproj.CoreCompileInputs.cache
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_.43DF53A0.Up2Date
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.dll
+E:\Utu\ASP\finalproject\PayRoll_Practies_Exam_2\PayRoll_Practies_Exam_2\obj\Debug\PayRoll_Practies_Exam_2.pdb

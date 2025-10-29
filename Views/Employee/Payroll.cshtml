@@ -1,0 +1,77 @@
+﻿@model PayRoll_Practies_Exam_2.Models.EmployeModel
+
+@{
+    ViewBag.Title = "Payroll";
+    Layout = "~/views/shared/_logoutlayout.cshtml";
+}
+
+<h2>Payroll</h2>
+
+<div>
+    <h4>Salary Division</h4>
+    <hr>
+    <dl class="dl-horizontal">
+       
+
+        <dt>
+            @Html.DisplayNameFor(model => model.c_salary)
+        </dt>
+
+
+        <dd>
+            @Html.DisplayFor(model => model.c_salary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.c_basic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.c_basic)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.c_da)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.c_da)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.c_hra)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.c_hra)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.c_taxable)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.c_taxable)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.c_tax)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.c_tax)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.c_takehome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.c_takehome)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
